@@ -2,7 +2,7 @@
 
 Welcome to **EditVerse Studios** – where creativity meets innovation! We specialize in transforming ideas into stunning visuals through expert video editing, captivating thumbnails, and cutting-edge advertisement videos.
 
-🚀 **Live Website:** [www.editversestudios.com]([https://www.editversestudios.com](https://www.editversestudios.com))
+🚀 **Live Website:** [www.editversestudios.com]([https://akshayganavena.github.io/editverse-portfolio/](https://akshayganavena.github.io/editverse-portfolio/))
 
 ---
 
@@ -34,7 +34,7 @@ This portfolio showcases our best work and highlights our expertise in:
 ---
 
 ## 📌 How to Explore
-1. Visit our live site: [EditVerse Studios]([https://www.editversestudios.com](https://www.editversestudios.com)
+1. Visit our live site: [EditVerse Studios]([https://www.editversestudios.com](https://akshayganavena.github.io/editverse-portfolio/)
 2. Navigate through our portfolio to see our latest projects.
 
 ---
